@@ -1,0 +1,10 @@
+
+Name your folder with the name of your team. This folder should contain:
+
+    1. A list of ranks: a spreadsheet of 50 to 100 articles or sites and their ordinal ranks. 
+    2. A design document: an accompanying narrative (approximately two to five pages), which explains your algorithm design.
+
+It can also contain:
+    3. Work product files.
+
+    It’s optional to upload the Work Product (part 3), you are also  can just describe it at the end of the day during your presentation.
